@@ -23,11 +23,11 @@
 
 고인정 : [GitHub](https://github.com/8bitHermitcrab)
 
-박지은 : 
+박지은 : [GitHub](https://github.com/JIEUNNN27)
 
-지호 : 
+지호 : [GitHub](https://github.com/jiho4399)
 
-하정훈 : 
+하정훈 : [GitHub](https://github.com/gkdlehtk)
 
 한동권 : [GitHub](https://github.com/gwonihan)
 
@@ -43,3 +43,6 @@
 
 5.10.(화)
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+
+5.11.(수)
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
