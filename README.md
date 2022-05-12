@@ -49,7 +49,10 @@
 
 5.12.(목)
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 
+5.13.(금)
+- [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 
 
 
