@@ -34,30 +34,6 @@
 
 ---
 
-## 🖍해결한 문제
-
-### 2022.
-5.9.(월)
-- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
-- [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
-
-5.10.(화)
-- [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
-
-5.11.(수)
-- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
-
-5.12.(목)
-- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
-- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
-
-5.13.(금)
-- [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
-
-
-
----
-
 ## 🔍참고사항
 
 ### git
@@ -80,3 +56,34 @@
 13. 양식 바로 위에 Able to merge 가 쓰여있으면 Create Pull Request 누르기
 
 (`git checkout <브랜치명>` 으로 현재 브랜치를 변경해서 사용 가능)
+
+---
+
+## 🖍해결한 문제
+
+### 2022.
+5.9.(월)
+- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
+- [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+
+5.10.(화)
+- [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+
+5.11.(수)
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+
+5.12.(목)
+- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+
+5.13.(금)
+- [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
+- [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
+- [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
+
+자습
+- [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
+- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
+
+5.16.(월)
+-
