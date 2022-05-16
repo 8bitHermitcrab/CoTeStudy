@@ -86,4 +86,9 @@
 - [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
 
 5.16.(월)
--
+- [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
+- [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
+  
+5.17.(화)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+- [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
