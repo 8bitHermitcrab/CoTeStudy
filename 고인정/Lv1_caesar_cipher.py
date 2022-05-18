@@ -1,11 +1,12 @@
 # 시저 암호
 
-# s = "a B z"
-s = 'z'
+s = "a B z"
+# s = 'z'
 # s = 'AB'
 n = 25
 
 alpabet = 'abcdefghijklmnopqrstuvwxyz'
+u_alpabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 # print(ord('a')) # 97
 # print(ord('A')) # 65
@@ -16,7 +17,40 @@ alpabet = 'abcdefghijklmnopqrstuvwxyz'
 # print(chr(96 + n))
 answer = ''
 
+for c in s:
+    if c in alpabet:
+        ind = alpabet.find(c) + n
+        print('ind =', ind)
+        answer += alpabet[ind%26]
+        print('alpabet[ind%26] = ', alpabet[ind%26])
+    elif c in u_alpabet:
+        ind = u_alpabet.find(c) + n
+        print('ind =', ind)
+        answer += u_alpabet[ind%26]
+        print('alpabet[ind%26] = ', u_alpabet[ind%26])
+    else:
+        answer = answer + ' '
+
 print(answer)
+
+
+
+
+'''if s[i] in alpabet:
+    answer = answer + alpabet[a]
+    if a > 25:
+        b = i + (25 - n)
+        if b > 25:
+            c = i + ()
+        answer = answer + alpabet[b]
+    answer = answer + alpabet[a]
+elif s[i] in u_alpabet:
+    if a > 25:
+        b = i + (25 - n)
+        answer = answer + u_alpabet[b]
+    answer = answer + u_alpabet[a]
+else: # 공백일 때
+    answer = answer + ' '''
 
 '''
 for i in range(len(s)):
@@ -44,3 +78,6 @@ for i in range(len(s)):
         chr_spn = chr(32)
     answer = answer + chr_spn
 '''
+
+
+# https://data-science-blog.tistory.com/1
