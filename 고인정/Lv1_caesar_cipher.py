@@ -5,9 +5,6 @@ s = 'z'
 # s = 'AB'
 n = 25
 
-# s = input()
-# n = int(input)
-
 alpabet = 'abcdefghijklmnopqrstuvwxyz'
 
 # print(ord('a')) # 97
