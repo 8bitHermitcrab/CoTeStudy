@@ -19,6 +19,9 @@ alpabet = 'abcdefghijklmnopqrstuvwxyz'
 # print(chr(96 + n))
 answer = ''
 
+print(answer)
+
+'''
 for i in range(len(s)):
     # 아스키 코드로 바꾸기
     ord_s = ord(s[i])
@@ -43,4 +46,4 @@ for i in range(len(s)):
     else:
         chr_spn = chr(32)
     answer = answer + chr_spn
-print(answer)
+'''
