@@ -104,3 +104,10 @@
 
 5.20.(금)
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
+- [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+
+자습
+- [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
+
+5.23.(월)
+- []()
