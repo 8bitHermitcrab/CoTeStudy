@@ -110,4 +110,8 @@
 - [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
 
 5.23.(월)
-- []()
+- [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
+
+5.24.(화)
+- [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
