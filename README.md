@@ -115,3 +115,7 @@
 
 5.24.(화)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
+- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+  
+5.25.(수)
+- [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
