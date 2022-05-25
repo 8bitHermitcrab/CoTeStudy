@@ -119,3 +119,7 @@
   
 5.25.(수)
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
+- [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+
+5.26.(목)
+- [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
