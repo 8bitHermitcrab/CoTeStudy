@@ -123,3 +123,6 @@
 
 5.26.(목)
 - [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+  
+5.27.(금)
+- [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
