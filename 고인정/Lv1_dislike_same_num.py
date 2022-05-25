@@ -11,3 +11,5 @@ for i in range(1, len(arr)):
         answer.append(arr[i])
 
 print(answer)
+
+# https://jokerldg.github.io/algorithm/2021/04/03/no-same-number.html
