@@ -23,6 +23,8 @@
 
 고인정 : [GitHub](https://github.com/8bitHermitcrab)
 
+김재헌 : [GitHub](-)
+
 박지은 : [GitHub](https://github.com/JIEUNNN27)
 
 지호 : [GitHub](https://github.com/jiho4399)
