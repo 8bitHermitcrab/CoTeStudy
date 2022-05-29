@@ -129,3 +129,9 @@
 5.27.(금)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+  
+5.30.(월)
+- [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
+5.31.(화)
+- [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
