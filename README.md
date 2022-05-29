@@ -23,6 +23,8 @@
 
 고인정 : [GitHub](https://github.com/8bitHermitcrab)
 
+김재헌 : [GitHub](https://github.com/gemjh)
+
 박지은 : [GitHub](https://github.com/JIEUNNN27)
 
 지호 : [GitHub](https://github.com/jiho4399)
@@ -126,3 +128,4 @@
   
 5.27.(금)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)

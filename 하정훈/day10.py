@@ -38,6 +38,15 @@ def solution(s):
     else:
       return False
 
+# 다른풀이 
+
+def alpha_string46(s):
+    try:
+        int(s)
+    except:
+        return False
+    return len(s) == 4 or len(s) == 6 
+
 
 
 ### 문자열 내림차순으로 배치하기 ###
