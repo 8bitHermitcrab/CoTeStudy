@@ -135,3 +135,6 @@
 
 5.31.(화)
 - [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+
+6.2.(목)
+- [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
