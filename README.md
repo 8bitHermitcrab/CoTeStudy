@@ -138,3 +138,6 @@
 
 6.2.(목)
 - [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+
+6.3.(금)
+- [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
