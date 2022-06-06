@@ -141,3 +141,10 @@
 
 6.3.(금)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+
+6.7.(화)
+- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+
+6.8.(수)
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
