@@ -155,5 +155,4 @@
 6.10.(금)
 - [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
 
-코드 리뷰
-[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) ~ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+코드 리뷰 : [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) ~ [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
