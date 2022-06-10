@@ -26,6 +26,8 @@
 
 김재헌 : [GitHub](https://github.com/gemjh)
 
+박경태 : [GitHub](https://github.com/ParkKyungTae)
+
 박지은 : [GitHub](https://github.com/JIEUNNN27)
 
 지호 : [GitHub](https://github.com/jiho4399)
