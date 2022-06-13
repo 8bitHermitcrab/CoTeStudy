@@ -161,3 +161,6 @@
 
 6.13.(월)
 - 프로그래머스 : [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) / 백준 : [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+
+6.14.(화)
+- 프로그래머스 : [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / 백준 : [직각삼각형](https://www.acmicpc.net/problem/4153)
