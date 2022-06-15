@@ -166,4 +166,7 @@
 - 프로그래머스 : [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / 백준 : [직각삼각형](https://www.acmicpc.net/problem/4153)
 
 6.15.(수)
-- 프로그래머스 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / 백준 : [ACM 호텔](https://www.acmicpc.net/problem/10250) 
+- 프로그래머스 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / 백준 : [ACM 호텔](https://www.acmicpc.net/problem/10250)
+
+6.16.(목)
+- 프로그래머스 : [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) / 백준 : [분해합](https://www.acmicpc.net/problem/2231) 
