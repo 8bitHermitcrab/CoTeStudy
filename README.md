@@ -171,5 +171,8 @@
 6.16.(목)
 - 프로그래머스 : [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) / 백준 : [분해합](https://www.acmicpc.net/problem/2231) 
 
-6.17.(금)
+6.20.(월)
 - 프로그래머스 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / 백준 : [벌집](https://www.acmicpc.net/problem/2292) 
+
+6.21.(화)
+- 프로그래머스 : [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) / 백준 : [블랙잭](https://www.acmicpc.net/problem/2798) 
