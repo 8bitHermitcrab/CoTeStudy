@@ -175,4 +175,7 @@
 - 프로그래머스 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / 백준 : [벌집](https://www.acmicpc.net/problem/2292) 
 
 6.21.(화)
-- 프로그래머스 : [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) / 백준 : [블랙잭](https://www.acmicpc.net/problem/2798) 
+- 프로그래머스 : [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) / 백준 : [블랙잭](https://www.acmicpc.net/problem/2798)
+
+6.22.(수)
+- 프로그래머스 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / 백준 : [Hashing](https://www.acmicpc.net/problem/15829) 
