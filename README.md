@@ -179,3 +179,6 @@
 
 6.22.(수)
 - 프로그래머스 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / 백준 : [Hashing](https://www.acmicpc.net/problem/15829) 
+
+6.23.(목)
+- 프로그래머스 : [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) / 백준 : [팰린드롬수](https://www.acmicpc.net/problem/1259) 
