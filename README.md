@@ -182,3 +182,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 6.23.(목)
 - 프로그래머스 : [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) / 백준 : [팰린드롬수](https://www.acmicpc.net/problem/1259)
+
+6.24.(금)
+- 프로그래머스 : [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / 백준 : [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
