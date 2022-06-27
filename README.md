@@ -188,3 +188,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 6.27.(월)
 - 프로그래머스 : [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / 백준 : [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
+
+6.28.(화)
+- 프로그래머스 : [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / 백준 : [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
