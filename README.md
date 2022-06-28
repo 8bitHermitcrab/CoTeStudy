@@ -1,21 +1,22 @@
 # 🧩CoTeStudy
-멀티캠퍼스 오전 8시 코딩테스트 스터디
+멀티캠퍼스 오전 9시 코딩테스트 스터디
 2022.05.09. ~
 
 ---
 
 ## 📏규칙
-* 스터디 시간 : 멀티캠퍼스 수업이 있는 평일 오전 8시 ~ 8시 50분 
+* 스터디 시간 : ~~멀티캠퍼스 수업이 있는 평일 오전 8시 ~ 8시 50분~~
+$\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으로 변경
 * 각자 이름에 맞는 폴더에 `git push`
 * `git commit -m '내용'` 내용은 자유롭게. 
-* 하루에 프로그래머스 Lv.1 1문제 이상 풀기 - 2022.05.09. ~
-
+* 하루에 프로그래머스 Lv.1 1문제 이상 풀기 - 2022.05.09. ~ 2022.06.10.
+* 지정한 문제를 풀어오고 함께 코드 리뷰하기 - 2022.06.12. ~
 
 ---
 
 ## 📚풀어볼 문제
 1. [프로그래머스 코딩테스트 연습 Lv.1](https://programmers.co.kr/learn/challenges)
-2. [(예정)백준 온라인 저지 solved.ac의 class2](https://solved.ac/search?query=in_class:2)
+2. [백준 온라인 저지 solved.ac의 class2](https://solved.ac/search?query=in_class%3A2&sort=level&direction=asc&page=1)
 
 ---
 
@@ -25,6 +26,8 @@
 
 김재헌 : [GitHub](https://github.com/gemjh)
 
+박경태 : [GitHub](https://github.com/ParkKyungTae)
+
 박지은 : [GitHub](https://github.com/JIEUNNN27)
 
 지호 : [GitHub](https://github.com/jiho4399)
@@ -32,7 +35,6 @@
 하정훈 : [GitHub](https://github.com/gkdlehtk)
 
 한동권 : [GitHub](https://github.com/gwonihan)
-
 
 ---
 
@@ -141,3 +143,54 @@
 
 6.3.(금)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+
+6.7.(화)
+- [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+
+6.8.(수)
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+
+6.9.(목)
+- [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+
+6.10.(금)
+- [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
+
+코드 리뷰 : [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612),[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389), [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
+6.13.(월)
+- 프로그래머스 : [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) / 백준 : [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+
+6.14.(화)
+- 프로그래머스 : [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / 백준 : [직각삼각형](https://www.acmicpc.net/problem/4153)
+
+6.15.(수)
+- 프로그래머스 : [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / 백준 : [ACM 호텔](https://www.acmicpc.net/problem/10250)
+
+6.16.(목)
+- 프로그래머스 : [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) / 백준 : [분해합](https://www.acmicpc.net/problem/2231) 
+
+6.20.(월)
+- 프로그래머스 : [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / 백준 : [벌집](https://www.acmicpc.net/problem/2292) 
+
+6.21.(화)
+- 프로그래머스 : [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) / 백준 : [블랙잭](https://www.acmicpc.net/problem/2798)
+
+6.22.(수)
+- 프로그래머스 : [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) / 백준 : [Hashing](https://www.acmicpc.net/problem/15829)
+
+6.23.(목)
+- 프로그래머스 : [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) / 백준 : [팰린드롬수](https://www.acmicpc.net/problem/1259)
+
+6.24.(금)
+- 프로그래머스 : [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / 백준 : [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+
+6.27.(월)
+- 프로그래머스 : [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / 백준 : [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
+
+6.28.(화)
+- 프로그래머스 : [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / 백준 : [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+
+6.29.(수)
+- 프로그래머스 : [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) / 백준 : [수 정렬하기 3](https://www.acmicpc.net/problem/10989)

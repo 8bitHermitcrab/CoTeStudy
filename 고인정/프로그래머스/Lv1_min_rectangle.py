@@ -9,18 +9,31 @@ for i in range(len(sizes)):
     if sizes[i][0] >= sizes[i][1]:
         # print(sizes[i][0])
         w.append(sizes[i][0])
+        # print(f'w{i} = {w}')
         h.append(sizes[i][1])
+        # print(f'h{i} = {h}')
     else:
         h.append(sizes[i][0])
+        # print(f'w{i} = {w}')
         w.append(sizes[i][1])
+        # print(f'h{i} = {h}')
     
 print(w)
-print(h)    
+# [10, 12, 15, 14, 15]
+
+print(h)
+# [7, 3, 8, 7, 5]
+
 print(max(w))
+# 15
 print(max(h))
+# 8
+
 w = max(w)
 h = max(h)
+
 print(w * h)
+# 120
 
 # https://velog.io/@guswl8280/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B5%9C%EC%86%8C-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-Python
 
