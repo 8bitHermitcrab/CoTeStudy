@@ -191,3 +191,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 6.28.(화)
 - 프로그래머스 : [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / 백준 : [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+
+6.29.(수)
+- 프로그래머스 : [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) / 백준 : [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
