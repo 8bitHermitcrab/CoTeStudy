@@ -197,3 +197,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 6.30.(목)
 - 프로그래머스 : [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) / 백준 : [이항 계수 1](https://www.acmicpc.net/problem/11050)
+
+7.01.(금)
+- 프로그래머스 : [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / 백준 : [단어 정렬](https://www.acmicpc.net/problem/1181)
