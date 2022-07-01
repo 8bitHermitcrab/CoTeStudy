@@ -200,3 +200,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.01.(금)
 - 프로그래머스 : [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / 백준 : [단어 정렬](https://www.acmicpc.net/problem/1181)
+
+7.04.(월)
+- 프로그래머스 : [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) / 백준 : [영화감독 숌](https://www.acmicpc.net/problem/1436)
