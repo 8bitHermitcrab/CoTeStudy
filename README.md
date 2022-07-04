@@ -203,3 +203,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.04.(월)
 - 프로그래머스 : [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) / 백준 : [영화감독 숌](https://www.acmicpc.net/problem/1436)
+
+7.05.(화)
+- 프로그래머스 : [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) / 백준 : [소수 찾기](https://www.acmicpc.net/problem/1978)
