@@ -206,3 +206,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.05.(화)
 - 프로그래머스 : [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) / 백준 : [소수 찾기](https://www.acmicpc.net/problem/1978)
+
+7.06.(수)
+- 프로그래머스 : [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) / 백준 : [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
