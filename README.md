@@ -215,3 +215,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.08.(금)
 - 프로그래머스 : [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / 백준 : [나이순 정렬](https://www.acmicpc.net/problem/10814)
+  
+7.11.(월)
+- 프로그래머스 : [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) / 백준 : [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
