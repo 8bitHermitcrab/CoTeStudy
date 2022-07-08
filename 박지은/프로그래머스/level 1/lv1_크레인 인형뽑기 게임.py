@@ -8,7 +8,7 @@ def solution(board, moves):
                 baguni.append(board[j][i-1])
                 board[j][i-1] = 0
 
-                if len(bagunit) > 1:
+                if len(baguni) > 1:
                     if baguni[-1] == baguni[-2]:
                         baguni.pop(-1)
                         baguni.pop(-1)
