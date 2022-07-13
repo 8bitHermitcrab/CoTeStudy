@@ -15,8 +15,9 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 ---
 
 ## 📚풀어볼 문제
-1. [프로그래머스 코딩테스트 연습 Lv.1](https://programmers.co.kr/learn/challenges)
+1. [프로그래머스 코딩테스트 연습 Lv.1](https://school.programmers.co.kr/learn/challenges) => 2022.07.13. (수) 완료
 2. [백준 온라인 저지 solved.ac의 class2](https://solved.ac/search?query=in_class%3A2&sort=level&direction=asc&page=1)
+3. [프로그래머스 코딩테스트 연습 Lv.2](https://school.programmers.co.kr/learn/challenges)
 
 ---
 
@@ -224,3 +225,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.13.(수)
 - 프로그래머스 : [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) / 백준 : [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+
+7.14.(목)
+- 프로그래머스 : [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) / 백준 : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
