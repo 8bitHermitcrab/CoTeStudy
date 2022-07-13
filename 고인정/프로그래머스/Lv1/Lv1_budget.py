@@ -11,3 +11,6 @@ for i in range(len(d)):
         answer += 1
 
 print(answer)
+
+
+# https://it-garden.tistory.com/233
