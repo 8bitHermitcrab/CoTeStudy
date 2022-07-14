@@ -5,13 +5,10 @@ budget = 9
 
 answer = 0
 d.sort()
-print(d)
 for i in range(len(d)):
     if budget >= d[i]:
-        answer += 1
-        print(budget)
         budget -= d[i]
-        print(budget)
+        answer += 1
 
 print(answer)
 

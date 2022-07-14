@@ -15,8 +15,9 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 ---
 
 ## 📚풀어볼 문제
-1. [프로그래머스 코딩테스트 연습 Lv.1](https://programmers.co.kr/learn/challenges)
+1. [프로그래머스 코딩테스트 연습 Lv.1](https://school.programmers.co.kr/learn/challenges) => 2022.07.13. (수) 완료
 2. [백준 온라인 저지 solved.ac의 class2](https://solved.ac/search?query=in_class%3A2&sort=level&direction=asc&page=1)
+3. [프로그래머스 코딩테스트 연습 Lv.2](https://school.programmers.co.kr/learn/challenges)
 
 ---
 
@@ -194,3 +195,36 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 6.29.(수)
 - 프로그래머스 : [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) / 백준 : [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+
+6.30.(목)
+- 프로그래머스 : [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) / 백준 : [이항 계수 1](https://www.acmicpc.net/problem/11050)
+
+7.01.(금)
+- 프로그래머스 : [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / 백준 : [단어 정렬](https://www.acmicpc.net/problem/1181)
+
+7.04.(월)
+- 프로그래머스 : [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) / 백준 : [영화감독 숌](https://www.acmicpc.net/problem/1436)
+
+7.05.(화)
+- 프로그래머스 : [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) / 백준 : [소수 찾기](https://www.acmicpc.net/problem/1978)
+
+7.06.(수)
+- 프로그래머스 : [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) / 백준 : [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+
+7.07.(목)
+- 프로그래머스 : [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) / 백준 : [덩치](https://www.acmicpc.net/problem/7568)
+
+7.08.(금)
+- 프로그래머스 : [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / 백준 : [나이순 정렬](https://www.acmicpc.net/problem/10814)
+  
+7.11.(월)
+- 프로그래머스 : [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) / 백준 : [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+
+7.12.(화)
+- 프로그래머스 : [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) / 백준 : [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+
+7.13.(수)
+- 프로그래머스 : [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) / 백준 : [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+
+7.14.(목)
+- 프로그래머스 : [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) / 백준 : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
