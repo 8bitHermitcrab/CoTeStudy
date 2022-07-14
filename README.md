@@ -228,3 +228,9 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.14.(목)
 - 프로그래머스 : [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) / 백준 : [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+
+7.15.(금)
+- 백준 : [수 찾기](https://www.acmicpc.net/problem/1920)
+
+7.18.(월)
+- 백준 :
