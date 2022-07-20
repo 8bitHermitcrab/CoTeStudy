@@ -240,3 +240,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.20.(수)
 - 백준 : [설탕 배달](https://www.acmicpc.net/problem/2839)
+
+7.21.(목)
+- 프로그래머스 : [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
