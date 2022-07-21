@@ -243,3 +243,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.21.(목)
 - 프로그래머스 : [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
+7.22.(금)
+- 백준 : [균형잡힌 세상](https://www.acmicpc.net/problem/4949)
