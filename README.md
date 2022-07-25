@@ -249,3 +249,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.25.(월)
 - 백준 : [괄호](https://www.acmicpc.net/problem/9012)
+
+7.21.(화)
+- 프로그래머스 : [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
