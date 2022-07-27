@@ -255,3 +255,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.27.(수)
 - 백준 : [제로](https://www.acmicpc.net/problem/10773)
+
+7.28.(목)
+- 프로그래머스 : [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
