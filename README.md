@@ -261,3 +261,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 7.29.(금)
 - 백준 : [숫자 카드 2](https://www.acmicpc.net/problem/10816)
+
+8.1.(월)
+- 백준 : [스택](https://www.acmicpc.net/problem/10828)
