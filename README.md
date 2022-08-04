@@ -273,3 +273,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.4.(목)
 - 프로그래머스 : [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+
+8.5.(금)
+- 백준 : [덱](https://www.acmicpc.net/problem/10866)
