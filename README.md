@@ -276,3 +276,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.5.(금)
 - 백준 : [덱](https://www.acmicpc.net/problem/10866)
+
+8.8.(월)
+- 백준 : [소수 구하기](https://www.acmicpc.net/problem/1929)
