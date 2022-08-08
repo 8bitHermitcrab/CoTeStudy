@@ -279,3 +279,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.8.(월)
 - 백준 : [소수 구하기](https://www.acmicpc.net/problem/1929)
+
+8.9.(화)
+- 프로그래머스 : [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
