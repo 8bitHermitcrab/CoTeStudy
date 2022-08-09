@@ -282,3 +282,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.9.(화)
 - 프로그래머스 : [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+
+8.10.(수)
+- 백준 : [스택 수열](https://www.acmicpc.net/problem/1874)
