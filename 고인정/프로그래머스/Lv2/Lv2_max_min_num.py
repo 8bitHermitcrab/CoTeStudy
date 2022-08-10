@@ -2,6 +2,7 @@
 
 # s = "1 2 3 4"
 s = "-1 -2 -3 -4"
+# s = "-1 -1"
 
 def solution(s):
     # answer = ''
