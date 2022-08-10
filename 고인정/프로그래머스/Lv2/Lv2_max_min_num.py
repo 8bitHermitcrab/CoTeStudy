@@ -4,7 +4,7 @@
 s = "-1 -2 -3 -4"
 
 def solution(s):
-    answer = ''
+    # answer = ''
     s_list = s.split()
     s_list_int = list(map(int, s_list))
     s_list.sort()
