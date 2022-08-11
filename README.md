@@ -288,3 +288,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.11.(목)
 - 프로그래머스 : [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+
+8.12.(금)
+- 백준 : [프린터 큐](https://www.acmicpc.net/problem/1966)
