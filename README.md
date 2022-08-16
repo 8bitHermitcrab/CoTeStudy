@@ -295,3 +295,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 8.16.(화)
 - 백준 : [통계학](https://www.acmicpc.net/problem/2108)
 - 프로그래머스 : [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+
+8.17.(수)
+- 백준 : [랜선 자르기](https://www.acmicpc.net/problem/1654)
