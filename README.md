@@ -298,3 +298,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.17.(수)
 - 백준 : [랜선 자르기](https://www.acmicpc.net/problem/1654)
+
+8.18.(목)
+- 프로그래머스 : [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
