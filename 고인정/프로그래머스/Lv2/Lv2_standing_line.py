@@ -20,6 +20,41 @@ def solution(n, k):
 # https://9yeah.tistory.com/8
 
 '''
+def solution(n, k):
+    answer = []
+    nums = [i for i in range(1, n+1)]
+
+    while n != 0:
+        # 줄 설 수 있는 총 방법은 n!
+        # n! // n 을 하면 각 몇 번의 방법이 있는지 나옴
+    
+        # 한 사람이 앞에 줄섰을 때 경우의 수
+        first = math.factorial(n) // n
+
+     
+        # k번째를 구하기 위해 한 사람이 앞에 줄섰을 때 경우의 수를 지나간 수
+        passed = k // first
+        
+        # 나머지를 k에 넣기
+        k = k % first
+        
+        if k == 0:
+            answer.append(nums.pop(passed-1))
+
+        else:
+            answer.append(nums.pop(passed))
+        
+        n -= 1
+        
+    return answer
+
+
+
+'''
+
+
+
+'''
 import math
 
 def solution(n, k):
