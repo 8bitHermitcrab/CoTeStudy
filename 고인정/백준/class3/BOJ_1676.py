@@ -4,7 +4,7 @@ import math
 
 n = int(input())
 num = math.factorial(n)
-
+print(f'num = {num}')
 cnt = 0
 
 str_num = str(num)
@@ -19,6 +19,6 @@ for i in range(len_num-1, 0, -1):
         cnt += 1
         print(f'cnt = {cnt}')
     else:
-        continue
+        break
 
 print(cnt)
