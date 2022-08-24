@@ -314,3 +314,6 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.24.(수)
 - 백준 : [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+
+8.25.(목)
+- 프로그래머스 : [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)
