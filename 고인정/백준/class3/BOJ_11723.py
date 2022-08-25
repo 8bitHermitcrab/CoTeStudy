@@ -40,8 +40,6 @@ for i in range(m):
             else:
                 s.add(num)
 
-# https://begin-dev-awos.tistory.com/163
-
 '''
 
 import sys
