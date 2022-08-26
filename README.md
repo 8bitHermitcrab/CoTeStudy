@@ -320,3 +320,12 @@ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으�
 
 8.26.(금)
 - 백준 : [집합](https://www.acmicpc.net/problem/11723)
+
+8.29.(월)
+- 백준 : [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+
+8.30.(화)
+- 프로그래머스 : [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+
+8.31.(수)
+- 백준 : [듣보잡](https://www.acmicpc.net/problem/1764)
