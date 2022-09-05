@@ -2,18 +2,22 @@
 멀티캠퍼스 오전 9시 코딩테스트 스터디
 2022.05.09. ~ 2022.08.31.
 
-오후 9시 코딩테스트 스터디
+오후 9시 30분 코딩테스트 스터디
 2022.09.01. ~
+
 ---
 
 ## 📏규칙
 * 스터디 시간 : ~~멀티캠퍼스 수업이 있는 평일 오전 8시 ~ 8시 50분~~
 ~~ $\Rightarrow$ 멀티캠퍼스 수료 이후 평일 오전 9시 ~ 9시 50분으로 변경~~
-$\Rightarrow$ 평일 오후 9시 ~ 9시 50분으로 변경
+$\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 * 각자 이름에 맞는 폴더에 `git push`
 * `git commit -m '내용'` 내용은 자유롭게. 
 * 하루에 프로그래머스 Lv.1 1문제 이상 풀기 - 2022.05.09. ~ 2022.06.10.
 * 지정한 문제를 풀어오고 함께 코드 리뷰하기 - 2022.06.12. ~
+* 하루에 백준 class2, 프로그래머스 Lv.1 각각 1문제 이상 풀기 - 2022.06.13. ~ 2022.07.14.~~
+* 월, 수, 금요일은 백준 class2 1문제 이상 풀기 / 화, 목요일은 프로그래머스 Lv.2 1문제 이상 풀기 - 2022.07.15. ~ 2022.08.22.
+* 월, 수, 금요일은 백준 class3 1문제 이상 풀기 / 화, 목요일은 프로그래머스 Lv.2 1문제 이상 풀기 - 2022.08.23. ~ 
 
 ---
 
@@ -203,22 +207,22 @@ $\Rightarrow$ 평일 오후 9시 ~ 9시 50분으로 변경
 6.30.(목)
 - 프로그래머스 : [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) / 백준 : [이항 계수 1](https://www.acmicpc.net/problem/11050)
 
-7.01.(금)
+7.1.(금)
 - 프로그래머스 : [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / 백준 : [단어 정렬](https://www.acmicpc.net/problem/1181)
 
-7.04.(월)
+7.4.(월)
 - 프로그래머스 : [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) / 백준 : [영화감독 숌](https://www.acmicpc.net/problem/1436)
 
-7.05.(화)
+7.5.(화)
 - 프로그래머스 : [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) / 백준 : [소수 찾기](https://www.acmicpc.net/problem/1978)
 
-7.06.(수)
+7.6.(수)
 - 프로그래머스 : [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) / 백준 : [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 
-7.07.(목)
+7.7.(목)
 - 프로그래머스 : [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) / 백준 : [덩치](https://www.acmicpc.net/problem/7568)
 
-7.08.(금)
+7.8.(금)
 - 프로그래머스 : [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / 백준 : [나이순 정렬](https://www.acmicpc.net/problem/10814)
   
 7.11.(월)
@@ -333,5 +337,11 @@ $\Rightarrow$ 평일 오후 9시 ~ 9시 50분으로 변경
 8.31.(수)
 - 백준 : [듣보잡](https://www.acmicpc.net/problem/1764)
 
-9.01.(목)
+9.1.(목)
 - 프로그래머스 : [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+
+9.2.(금)
+- 백준 : [동전 0](https://www.acmicpc.net/problem/11047)
+
+9.5.(월)
+- 백준 : [ATM](https://www.acmicpc.net/problem/11399)
