@@ -348,3 +348,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 9.6.(화)
 - 프로그래머스 : [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+
+9.7.(수)
+- 백준 : [비밀번호 찾기](https://www.acmicpc.net/problem/17219)
