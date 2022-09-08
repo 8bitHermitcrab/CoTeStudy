@@ -357,5 +357,4 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 - 프로그래머스 : [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
 9.15.(목)
-- 백준 : [피보나치 함수](https://www.acmicpc.net/problem/1003)
-- 프로그래머스 : [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- 프로그래머스 : [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) / 백준 : [피보나치 함수](https://www.acmicpc.net/problem/1003)
