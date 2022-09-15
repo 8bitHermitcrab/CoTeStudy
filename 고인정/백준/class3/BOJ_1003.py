@@ -3,17 +3,16 @@
 '''
 def fibonacci(n):
     if n == 0:
-        print('0')
+        print(f'n = 0 => 0')
         return 0
     elif n == 1:
-        print('1')
+        print(f'n = 1 => 1')
         return 1
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-# print(fibonacci(2))
+# print(fibonacci(3))
 '''
-
 
 zero_cnt = [1, 0, 1]
 one_cnt = [0, 1, 1]
