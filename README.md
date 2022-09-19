@@ -361,3 +361,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 9.19.(월)
 - 프로그래머스 : [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) / 백준 : [1로 만들기](https://www.acmicpc.net/problem/1463)
+
+9.22.(목)
+- 프로그래머스 : [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) / 백준 : [계단 오르기](https://www.acmicpc.net/problem/2579)
