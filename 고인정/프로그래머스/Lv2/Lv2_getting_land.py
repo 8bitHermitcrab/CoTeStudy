@@ -5,14 +5,14 @@ land = [[1,2,3,5],[5,6,7,8],[4,3,2,1]]
 def solution(land):
     for i in range(1, len(land)):
         for j in range(4):
-            print(f'land[{i-1}][:{j}] = {land[i-1][:j]}')
-            print(f'land[{i-1}][{j+1}:] = {land[i-1][j+1:]}')
-            print(f'land[i-1][:j] + land[i-1][j+1:] = {land[i-1][:j] + land[i-1][j+1:]}')
-            print(f'land[i][j] = land[{i}][{j}] = {land[i][j]}')
+            # print(f'land[{i-1}][:{j}] = {land[i-1][:j]}')
+            # print(f'land[{i-1}][{j+1}:] = {land[i-1][j+1:]}')
+            # print(f'land[i-1][:j] + land[i-1][j+1:] = {land[i-1][:j] + land[i-1][j+1:]}')
+            # print(f'land[i][j] = land[{i}][{j}] = {land[i][j]}')
             land[i][j] += max(land[i-1][:j] + land[i-1][j+1:])
-            print(f'### land[i][j] = land[{i}][{j}] = {land[i][j]} ###')
+            # print(f'### land[i][j] = land[{i}][{j}] = {land[i][j]} ###')
     
-    print(land)
+    # print(land)
     # 마지막 행의 인덱스이기 때문에 -1 해줘야함
     return max(land[len(land) - 1])
 
