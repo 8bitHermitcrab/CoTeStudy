@@ -370,3 +370,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 10.6.(목)
 - 프로그래머스 : [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) / 백준 : [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+
+10.13.(목)
+- 프로그래머스 : [구명보트]](https://school.programmers.co.kr/learn/courses/30/lessons/42885) / 백준 : [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
