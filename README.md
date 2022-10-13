@@ -373,3 +373,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 10.13.(목)
 - 프로그래머스 : [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) / 백준 : [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+
+10.17.(월)
+- 프로그래머스 : [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) / 백준 : [파도반 수열](https://www.acmicpc.net/problem/9461)
