@@ -379,3 +379,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 10.20.(목)
 - 프로그래머스 : [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) / 백준 : [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+
+10.24.(월)
+- 프로그래머스 : [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) / 백준 : [2×n 타일링](https://www.acmicpc.net/problem/11726)
