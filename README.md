@@ -385,3 +385,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 10.27.(목)
 - 프로그래머스 : [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / 백준 : [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+
+10.31.(월)
+- 프로그래머스 : [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) / 백준 : [Four Squares](https://www.acmicpc.net/problem/17626)
