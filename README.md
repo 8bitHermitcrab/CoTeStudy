@@ -399,3 +399,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 11.14.(월)
 - 백준 : [N과 M (1)](https://www.acmicpc.net/problem/15649) / [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
+11.17.(목)
+- 프로그래머스 : [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / 백준 : [터렛](https://www.acmicpc.net/problem/1002)
