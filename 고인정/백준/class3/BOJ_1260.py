@@ -15,7 +15,7 @@ print(f'graph = {graph}')
 # 방문 리스트 행렬
 visited1 = [0] * (n+1)
 visited2 = visited1.copy()
-print(f'visited1 = {visited1}')
+# print(f'visited1 = {visited1}')
 
 def dfs(v):
     # 방문 처리
@@ -42,7 +42,9 @@ def bfs(v):
     return
 
 dfs(v)
+# print(f'visited1 = {visited1}')
 print()
 bfs(v)
+# print(f'visited2 = {visited2}')
 
 # https://intrepidgeeks.com/tutorial/backup-python-no-1260-dfs-and-bfs-dfsbfs-basic-implementation-details
