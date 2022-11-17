@@ -19,6 +19,7 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 * ~~월, 수, 금요일은 백준 class2 1문제 이상 풀기 / 화, 목요일은 프로그래머스 Lv.2 1문제 이상 풀기~~ - 2022.07.15. ~ 2022.08.22.
 * ~~월, 수, 금요일은 백준 class3 1문제 이상 풀기 / 화, 목요일은 프로그래머스 Lv.2 1문제 이상 풀기~~ - 2022.08.23. ~ 2022.09.08.
 * 월, 목요일마다 백준 class3 1문제, 프로그래머스 Lv.2 1문제 이상 풀기 - 2022.09.15. ~
+* 월, 목요일마다 백준 Silver3 1문제, 프로그래머스 Lv.2 1문제 이상 풀기 - 2022.11.14. ~
 
 ---
 
@@ -27,6 +28,7 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 2. [백준 온라인 저지 solved.ac의 class2](https://solved.ac/search?query=in_class%3A2&sort=level&direction=asc&page=1) $\Rightarrow$ 2022.8.22.(월) 완료
 3. [프로그래머스 코딩테스트 연습 Lv.2](https://school.programmers.co.kr/learn/challenges?page=1&levels=2&languages=python3&order=acceptance_desc)
 4. [백준 온라인 저지 solved.ac의 class3](https://solved.ac/search?query=in_class%3A3&sort=level&direction=asc&page=1)
+5. [백준 온라인 저지 solved.ac의 Silver3](https://solved.ac/problems/level/8?sort=solved&direction=desc&page=1)
 
 ---
 
@@ -394,3 +396,9 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 11.10.(목)
 - 프로그래머스 : [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / 백준 : [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
+11.14.(월)
+- 백준 : [N과 M (1)](https://www.acmicpc.net/problem/15649) , [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
+11.17.(목)
+- 프로그래머스 : [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / 백준 : [터렛](https://www.acmicpc.net/problem/1002)
