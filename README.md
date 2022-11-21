@@ -405,3 +405,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 11.21.(월)
 - 프로그래머스 : [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / 백준 : [N과 M (2)](https://www.acmicpc.net/problem/15650)
+
+11.24.(목)
+- 프로그래머스 : [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) / 백준 : [베르트랑 공준](https://www.acmicpc.net/problem/4948)
