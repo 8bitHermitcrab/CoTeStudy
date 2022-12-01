@@ -93,7 +93,7 @@ def checking_bracket(s):
     rs = rs.replace("(", "a")
     rs = rs.replace(")", "b")
     rs = rs.replace("[", "c")
-    rs = rs.replace("]", "d")
+    rs = rs.replace("[", "d")
     rs = rs.replace("{", "e")
     rs = rs.replace("}", "f")
     # print(f'rs = {rs}')
