@@ -65,7 +65,7 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 — 여기서 pull 뒤에 더 입력해야하라는 메세지 뜨면 각자 적용
 10. `git add <파일명>`,
     `git commit -m '<커밋내용>'`, 
-    `git push —set-upstream origin <자신의 브랜치명>` 
+    `git push --set-upstream origin <자신의 브랜치명>` 
     순서로 입력하여 문제풀이 파일을 업로드
 11. 깃허브로 돌아가서 Compare & pull request 를 눌러 원본 Repo에 반영을 요청
 12. Pull Request 작성
