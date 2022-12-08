@@ -1,5 +1,4 @@
 
-
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,python,visualstudiocode,git,web
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,python,visualstudiocode,git,web
 
@@ -220,6 +219,8 @@ cython_debug/
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+.vscode
 
 # Local History for Visual Studio Code
 .history/
