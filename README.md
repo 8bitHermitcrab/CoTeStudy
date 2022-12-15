@@ -417,3 +417,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 12.15.(목)
 - 프로그래머스 : [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / 백준 : [퇴사](https://www.acmicpc.net/problem/14501)
+
+12.19.(월)
+- 프로그래머스 : [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) / 백준 : [N과 M (4)](https://www.acmicpc.net/problem/15652)
