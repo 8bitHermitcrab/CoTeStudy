@@ -48,7 +48,7 @@ for i in range(1, n+2):
             dp[i] = max(dp[i], dp[j] + p[j])
 
     # 3) 최대값을 갱신해줍니다.
-    result = max(result, d[i])
+    result = max(result, dp[i])
 
 # 3. 출력
 print(result)
