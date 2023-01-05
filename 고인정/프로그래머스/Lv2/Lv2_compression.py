@@ -24,3 +24,5 @@ def solution(msg):
 
 
 print(solution(msg))
+
+# https://hazung.tistory.com/89
