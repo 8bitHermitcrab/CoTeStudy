@@ -431,5 +431,8 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 1.5.(목)
 - 프로그래머스 : [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 
-1.9.(월)
+1.12.(목)
 - 프로그래머스 : [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) / 백준 : [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+
+1.16.(월)
+- 프로그래머스 : [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) / 백준 : [N과 M (5)](https://www.acmicpc.net/problem/15654)
