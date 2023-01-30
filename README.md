@@ -445,3 +445,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 1.30.(월)
 - 백준 : [어린 왕자](https://www.acmicpc.net/problem/1004)
+
+2.2.(목)
+- 프로그래머스 : [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
