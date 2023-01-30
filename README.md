@@ -436,3 +436,12 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 1.16.(월)
 - 프로그래머스 : [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) / 백준 : [N과 M (5)](https://www.acmicpc.net/problem/15654)
+
+1.19.(목)
+- 백준 : [주유소](https://www.acmicpc.net/problem/13305)
+
+1.26.(목)
+- 프로그래머스 : [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+
+1.30.(월)
+- 백준 : [어린 왕자](https://www.acmicpc.net/problem/1004)
