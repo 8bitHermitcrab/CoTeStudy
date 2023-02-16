@@ -452,5 +452,5 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 2.9.(목)
 - 백준 : [회전하는 큐](https://www.acmicpc.net/problem/1021)
 
-2.13.(월)
-- 프로그래머스 : [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+2.16.(목)
+- 프로그래머스 : [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) / 백준 : [N과 M (8)](https://www.acmicpc.net/problem/15657)
