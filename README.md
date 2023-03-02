@@ -463,3 +463,6 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 
 3.2.(목)
 - 백준 : [모든 순열](https://www.acmicpc.net/problem/10974)
+
+3.6.(월)
+- 프로그래머스 : [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
