@@ -470,5 +470,5 @@ $\Rightarrow$ 평일 오후 9시 30분 ~ 10시 20분으로 변경
 3.13.(월)
 - 백준 : [문자열 집합](https://www.acmicpc.net/problem/14425)
 
-3.16.(목)
+3.20.(목)
 - 프로그래머스 : [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
