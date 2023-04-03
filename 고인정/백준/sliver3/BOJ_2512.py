@@ -19,3 +19,5 @@ while start <= end:
     else:   # 지출이 예산보다 크면
         end = mid - 1
 print(end)
+
+# https://deep-learning-study.tistory.com/604
